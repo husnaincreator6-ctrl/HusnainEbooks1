@@ -1,0 +1,6 @@
+{
+  "name": "Husnain Ebooks",
+  "description": "Premium digital bookstore for practical ebooks. Read, learn, and grow with instant digital delivery, JazzCash & Easypaisa checkout, and secure access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

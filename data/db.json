@@ -1,0 +1,679 @@
+{
+  "categories": [
+    {
+      "id": "cat-freelancing",
+      "name": "Freelancing",
+      "slug": "freelancing",
+      "description": "Master client acquisition, high-ticket proposals, Upwork/Fiverr scaling, and remote income.",
+      "displayOrder": 1
+    },
+    {
+      "id": "cat-ai",
+      "name": "Artificial Intelligence",
+      "slug": "artificial-intelligence",
+      "description": "Practical AI tools, prompt engineering, automated workflows, and building modern AI solutions.",
+      "displayOrder": 2
+    },
+    {
+      "id": "cat-marketing",
+      "name": "Digital Marketing",
+      "slug": "digital-marketing",
+      "description": "Performance advertising, conversion copywriting, social media organic growth, and sales funnels.",
+      "displayOrder": 3
+    },
+    {
+      "id": "cat-business",
+      "name": "Business",
+      "slug": "business",
+      "description": "Startup fundamentals, pricing strategy, operations, team scaling, and sustainable revenue.",
+      "displayOrder": 4
+    },
+    {
+      "id": "cat-finance",
+      "name": "Personal Finance",
+      "slug": "personal-finance",
+      "description": "Wealth preservation, emergency funds, investment vehicles, and financial independence.",
+      "displayOrder": 5
+    },
+    {
+      "id": "cat-productivity",
+      "name": "Productivity",
+      "slug": "productivity",
+      "description": "Deep work frameworks, time blocking, energy management, and high-performance daily habits.",
+      "displayOrder": 6
+    },
+    {
+      "id": "cat-education",
+      "name": "Education",
+      "slug": "education",
+      "description": "Accelerated skill acquisition, academic frameworks, and cognitive mental models.",
+      "displayOrder": 7
+    },
+    {
+      "id": "cat-development",
+      "name": "Personal Development",
+      "slug": "personal-development",
+      "description": "Mindset resilience, emotional intelligence, leadership mastery, and personal transformation.",
+      "displayOrder": 8
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-freelance-blueprint",
+      "slug": "7-figure-freelance-blueprint",
+      "title": "The 7-Figure Freelancer Blueprint: From Zero to High-Ticket Retainers",
+      "author": "Muhammad Husnain",
+      "shortDescription": "The definitive roadmap to landing international remote clients, closing $2,000+ retainers, and scaling beyond hourly billing.",
+      "fullDescription": "Stop competing in the low-price race to the bottom on saturated freelancing portals. The 7-Figure Freelancer Blueprint reveals battle-tested client acquisition strategies, value-based pricing models, proposal templates, and contract frameworks used by top remote professionals. Designed specifically for Pakistani and global freelancers seeking reliable dollar-earning opportunities.",
+      "whatYouWillLearn": [
+        "How to position your skillset as an indispensable business investment rather than an expense",
+        "The exact 4-part cold email and LinkedIn outreach script that secures qualified client calls",
+        "Transitioning from low hourly rates to monthly recurring $1,500 – $3,500 client retainers",
+        "Bulletproof invoice structures, international payment receipt methods, and contract safeguards",
+        "Building a client referral loop that fills your pipeline without manual prospecting"
+      ],
+      "contents": [
+        "Chapter 1: The High-Income Freelance Mindset",
+        "Chapter 2: Identifying Your $1,000+ Specialized Offer",
+        "Chapter 3: Outbound Acquisition: Cold Pitching & Social Selling",
+        "Chapter 4: The Discovery Call: Uncovering Client Pain Points",
+        "Chapter 5: Closing Proposals & Value-Based Pricing",
+        "Chapter 6: Onboarding, Retention & Recurring Retainers",
+        "Bonus: 10 Ready-to-Send Outreach & Follow-up Templates"
+      ],
+      "sampleExcerpt": "Freelance success is never about working 80 hours a week for pennies. It is about understanding where commercial value resides, communicating that value with unflinching clarity, and delivering outcomes that make your retainer the best return on investment your client ever made.",
+      "coverUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+      "fileName": "7-Figure-Freelancer-Blueprint.pdf",
+      "fileSize": "4.8 MB",
+      "pageCount": 168,
+      "categoryId": "cat-freelancing",
+      "tags": [
+        "Freelancing",
+        "Client Acquisition",
+        "High Ticket",
+        "Remote Work"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": false,
+      "regularPrice": 2499,
+      "salePrice": 1799,
+      "discountStart": "2025-01-01",
+      "discountEnd": "2026-12-31",
+      "isPublished": true,
+      "isFeatured": true,
+      "featuredOrder": 1,
+      "createdAt": "2025-01-10T12:00:00.000Z",
+      "updatedAt": "2025-01-10T12:00:00.000Z"
+    },
+    {
+      "id": "prod-ai-prompting-mastery",
+      "slug": "practical-ai-prompt-engineering",
+      "title": "Practical AI & Prompt Engineering: Accelerate Your Work 10x",
+      "author": "Muhammad Husnain",
+      "shortDescription": "Master generative AI, advanced prompt architectures, autonomous agent workflows, and real-world productivity shortcuts.",
+      "fullDescription": "AI will not replace humans, but professionals who wield AI will outpace those who do not. This comprehensive handbook cuts through the noise of superficial prompts. Learn systematic prompting frameworks, role prompting, chain-of-thought methodologies, document synthesis, and automated business integrations.",
+      "whatYouWillLearn": [
+        "Core architecture of LLMs and how to eliminate hallucinations through contextual grounding",
+        "The CLEAR prompt formula: Context, Logic, Execution, Adjustment, and Results",
+        "Automating complex tasks: data extraction, market research, content generation, and code review",
+        "Building your own domain-specific AI knowledge repository and custom instructions",
+        "Monetizing AI capabilities in modern client workflows and content agencies"
+      ],
+      "contents": [
+        "Chapter 1: The Mechanics of Modern AI Systems",
+        "Chapter 2: The CLEAR Prompting Architecture",
+        "Chapter 3: Few-Shot Prompting & Structured Output Formatting",
+        "Chapter 4: Automating Research, Synthesis & Writing",
+        "Chapter 5: AI for Business Operations & Customer Support",
+        "Chapter 6: Ethical AI, IP Safeguards & Future Horizons",
+        "Bonus: 50 Production-Tested Enterprise System Prompts"
+      ],
+      "sampleExcerpt": "Effective prompt engineering is not about casting magic spells; it is about providing unambiguous boundary conditions, structured schema definitions, and explicit thinking frameworks to computational intelligence.",
+      "coverUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "fileName": "Practical-AI-Prompt-Engineering.pdf",
+      "fileSize": "5.2 MB",
+      "pageCount": 194,
+      "categoryId": "cat-ai",
+      "tags": [
+        "Artificial Intelligence",
+        "Prompt Engineering",
+        "Automation",
+        "Productivity"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": false,
+      "regularPrice": 2999,
+      "salePrice": 1999,
+      "discountStart": "2025-01-01",
+      "discountEnd": "2026-12-31",
+      "isPublished": true,
+      "isFeatured": true,
+      "featuredOrder": 2,
+      "createdAt": "2025-01-15T12:00:00.000Z",
+      "updatedAt": "2025-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-free-starter-handbook",
+      "slug": "freelancers-starter-handbook-free",
+      "title": "The Freelancer’s Quick Start Handbook: First $500 Roadmap",
+      "author": "Muhammad Husnain",
+      "shortDescription": "Free starter guide detailing how to set up your profiles, avoid beginner traps, and earn your first $500 online.",
+      "fullDescription": "A practical, actionable introductory manual created to empower beginners. Completely free of charge with instant digital delivery upon claiming. Learn how to craft a compelling profile bio, showcase a starter portfolio without past clients, and submit proposals that win projects.",
+      "whatYouWillLearn": [
+        "How to build a credible 3-project portfolio from scratch in under 7 days",
+        "The 5 fatal proposal mistakes that cause 90% of beginner proposals to be archived",
+        "Selecting a profitable niche that matches your existing strengths",
+        "Navigating client communications and receiving your first payment safely"
+      ],
+      "contents": [
+        "Section 1: The Foundational Skills Audit",
+        "Section 2: The Zero-Client Portfolio Strategy",
+        "Section 3: Crafting High-Converting Beginner Proposals",
+        "Section 4: Delivering Excellence & Earning 5-Star Feedback",
+        "Checklist: First Project Readiness Checklist"
+      ],
+      "sampleExcerpt": "Your very first client does not care how long you have been in business; they only care if you understand their immediate problem and can be trusted to resolve it reliably.",
+      "coverUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80",
+      "fileName": "Freelancers-Quick-Start-Handbook.pdf",
+      "fileSize": "2.4 MB",
+      "pageCount": 52,
+      "categoryId": "cat-freelancing",
+      "tags": [
+        "Freelancing",
+        "Beginner Guide",
+        "Free Resource",
+        "Career"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": true,
+      "regularPrice": 0,
+      "isPublished": true,
+      "isFeatured": true,
+      "featuredOrder": 3,
+      "createdAt": "2025-01-05T12:00:00.000Z",
+      "updatedAt": "2025-01-05T12:00:00.000Z"
+    },
+    {
+      "id": "prod-digital-marketing-playbook",
+      "slug": "modern-digital-marketing-playbook",
+      "title": "Modern Digital Marketing Playbook: Traffic, Funnels & Conversions",
+      "author": "Muhammad Husnain",
+      "shortDescription": "Master paid media, organic audience compounding, persuasive copywriting, and high-converting marketing funnels.",
+      "fullDescription": "Modern digital marketing is no longer about blind spending on ads; it is about building sustainable ecosystems where traffic transforms predictably into revenue. This playbook details organic viral dynamics, meta advertising economics, email segmentation, and landing page psychology.",
+      "whatYouWillLearn": [
+        "Structuring profitable Meta and Google ad campaigns with strict CPA controls",
+        "Landing page wireframes that consistently hit 15%+ conversion rates",
+        "Automated email sequences that generate passive revenue from day 1",
+        "Organic storytelling tactics that build authentic social following"
+      ],
+      "contents": [
+        "Chapter 1: The Modern Customer Journey",
+        "Chapter 2: High-Converting Landing Page Architecture",
+        "Chapter 3: Paid Traffic Economics & Campaign Launch",
+        "Chapter 4: Copywriting Formulas That Trigger Action",
+        "Chapter 5: Email Automation & Customer Lifecycle Marketing"
+      ],
+      "sampleExcerpt": "Good marketing does not convince people to buy what they do not need. Great marketing illuminates the exact bridge between where your customer is today and where they desperately desire to be.",
+      "coverUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "fileName": "Modern-Digital-Marketing-Playbook.pdf",
+      "fileSize": "6.1 MB",
+      "pageCount": 210,
+      "categoryId": "cat-marketing",
+      "tags": [
+        "Marketing",
+        "Copywriting",
+        "Sales Funnels",
+        "Meta Ads"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": false,
+      "regularPrice": 2200,
+      "salePrice": 1599,
+      "discountStart": "2025-01-01",
+      "discountEnd": "2026-12-31",
+      "isPublished": true,
+      "isFeatured": false,
+      "createdAt": "2025-01-20T12:00:00.000Z",
+      "updatedAt": "2025-01-20T12:00:00.000Z"
+    },
+    {
+      "id": "prod-free-ai-prompt-vault",
+      "slug": "100-essential-ai-prompts-vault-free",
+      "title": "100 Essential AI Prompts Vault: Business & Career Toolkit",
+      "author": "Muhammad Husnain",
+      "shortDescription": "Free curated repository of high-yield prompts for market research, coding, copywriting, and daily executive management.",
+      "fullDescription": "Skip the trial and error with 100 thoroughly tested prompts organized by function. Includes prompts for marketing campaigns, proposal generation, client negotiation, financial analysis, and strategic decision making. Free for immediate digital access.",
+      "whatYouWillLearn": [
+        "20 battle-tested marketing and content generation prompts",
+        "25 executive productivity and strategic decision prompts",
+        "25 client communication and sales objection prompts",
+        "30 technical and research synthesis prompts"
+      ],
+      "contents": [
+        "Section 1: Executive & Business Strategy Prompts",
+        "Section 2: High-Converting Sales & Marketing Prompts",
+        "Section 3: Research, Data & Synthesis Prompts",
+        "Section 4: Daily Productivity & Workflow Prompts"
+      ],
+      "sampleExcerpt": "A generic prompt yields generic mediocrity. A structured prompt with clear persona, explicit constraints, and step-by-step logic yields superhuman output.",
+      "coverUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fileName": "100-Essential-AI-Prompts-Vault.pdf",
+      "fileSize": "1.9 MB",
+      "pageCount": 44,
+      "categoryId": "cat-ai",
+      "tags": [
+        "AI",
+        "Prompt Vault",
+        "Free Resource",
+        "Productivity"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": true,
+      "regularPrice": 0,
+      "isPublished": true,
+      "isFeatured": true,
+      "featuredOrder": 4,
+      "createdAt": "2025-01-18T12:00:00.000Z",
+      "updatedAt": "2025-01-18T12:00:00.000Z"
+    },
+    {
+      "id": "prod-personal-finance-mastery",
+      "slug": "smart-money-habits-financial-freedom",
+      "title": "Smart Money Habits: A Practical Guide to Financial Independence",
+      "author": "Muhammad Husnain",
+      "shortDescription": "Actionable wealth preservation, cashflow allocation, smart investing, and inflation-shielding for modern earners.",
+      "fullDescription": "Earning money is only half the battle; defending and multiplying it is what creates true autonomy. Learn how to allocate your personal cash flow, establish rock-solid emergency reserves, navigate currency devaluation, and build long-term capital assets.",
+      "whatYouWillLearn": [
+        "The 50/30/20 adapted cashflow model for volatile developing market economies",
+        "Hedging against currency depreciation through diversified assets",
+        "Systematic index investing and dividend compounding principles",
+        "Psychological traps that prevent high earners from accumulating genuine wealth"
+      ],
+      "contents": [
+        "Chapter 1: The Psychology of Money & Consumption",
+        "Chapter 2: Cash Flow Architecture & Emergency Defense",
+        "Chapter 3: Defeating Inflation: Asset Classes Decoded",
+        "Chapter 4: The Automated Monthly Investment Protocol",
+        "Chapter 5: Long-Term Financial Independence Milestones"
+      ],
+      "sampleExcerpt": "Wealth is not the car you drive or the watch on your wrist. Wealth is the number of days you can live comfortably on your own terms without needing anyone’s permission.",
+      "coverUrl": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&w=800&q=80",
+      "fileName": "Smart-Money-Habits-Guide.pdf",
+      "fileSize": "3.7 MB",
+      "pageCount": 152,
+      "categoryId": "cat-finance",
+      "tags": [
+        "Personal Finance",
+        "Investing",
+        "Wealth",
+        "Money Management"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": false,
+      "regularPrice": 1999,
+      "salePrice": 1399,
+      "discountStart": "2025-01-01",
+      "discountEnd": "2026-12-31",
+      "isPublished": true,
+      "isFeatured": false,
+      "createdAt": "2025-01-22T12:00:00.000Z",
+      "updatedAt": "2025-01-22T12:00:00.000Z"
+    },
+    {
+      "id": "prod-deep-work-productivity",
+      "slug": "deep-work-high-output-productivity",
+      "title": "High-Output Mastery: The Science of Deep Focus & Discipline",
+      "author": "Muhammad Husnain",
+      "shortDescription": "Eliminate digital distraction, construct unbreakable daily routines, and achieve in 4 hours what others do in 12.",
+      "fullDescription": "In an era of relentless algorithmic distraction, the ability to focus deeply on demanding cognitive tasks is an extraordinary competitive advantage. This book details actionable neuroscience-backed protocols for dopamine regulation, circadian rhythm optimization, and high-leverage time blocking.",
+      "whatYouWillLearn": [
+        "How to enter flow state on command within 15 minutes of sitting down",
+        "Eliminating reactive phone checking through friction engineering",
+        "The 90-minute ultradian rhythm work block protocol",
+        "Designing an energy management system that prevents burnout"
+      ],
+      "contents": [
+        "Chapter 1: The Attention Economy vs. Your Cognitive Sovereignty",
+        "Chapter 2: The Neurobiology of Deep Focus",
+        "Chapter 3: Structuring the High-Output Daily Architecture",
+        "Chapter 4: Overcoming Resistance & Procrastination Loops",
+        "Chapter 5: Sustained Energy, Recovery & Mental Longevity"
+      ],
+      "sampleExcerpt": "Discipline is not self-punishment; it is the ultimate act of self-respect. When you protect your morning focus, you protect your future from being dictated by other people’s priorities.",
+      "coverUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=800&q=80",
+      "fileName": "High-Output-Mastery.pdf",
+      "fileSize": "3.3 MB",
+      "pageCount": 140,
+      "categoryId": "cat-productivity",
+      "tags": [
+        "Productivity",
+        "Focus",
+        "Deep Work",
+        "Habits"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": false,
+      "regularPrice": 1800,
+      "salePrice": 1299,
+      "isPublished": true,
+      "isFeatured": false,
+      "createdAt": "2025-01-25T12:00:00.000Z",
+      "updatedAt": "2025-01-25T12:00:00.000Z"
+    },
+    {
+      "id": "prod-mindset-resilience",
+      "slug": "unbreakable-mindset-stoic-resilience",
+      "title": "The Unbreakable Mindset: Principles of Emotional Sovereignty",
+      "author": "Muhammad Husnain",
+      "shortDescription": "Timeless principles for navigating high-stakes pressure, failure, uncertainty, and career setbacks with composure.",
+      "fullDescription": "Success is an emotional endurance race. This book draws from classical philosophy, modern psychology, and real entrepreneurial battles to show you how to master internal dialogue, conquer imposter syndrome, and maintain unshakeable poise during high-stakes moments.",
+      "whatYouWillLearn": [
+        "Reframing acute obstacles into strategic advantages",
+        "Developing emotional detachment from temporary outcomes",
+        "Overcoming fear of judgment and public failure",
+        "Building enduring self-confidence through verified competence"
+      ],
+      "contents": [
+        "Chapter 1: Internal Sovereignty: What You Control",
+        "Chapter 2: The Dichotomy of Effort and Outcome",
+        "Chapter 3: Dismantling Imposter Syndrome & Self-Doubt",
+        "Chapter 4: Thriving Under Uncertainty & Pressure",
+        "Chapter 5: The Daily Stoic Audit"
+      ],
+      "sampleExcerpt": "You cannot control the waves of the market or the unpredictability of others; you can only master the rudder of your own discipline and integrity.",
+      "coverUrl": "https://images.unsplash.com/photo-1519791883288-dc8bd696e667?auto=format&fit=crop&w=800&q=80",
+      "fileName": "The-Unbreakable-Mindset.pdf",
+      "fileSize": "4.1 MB",
+      "pageCount": 160,
+      "categoryId": "cat-development",
+      "tags": [
+        "Mindset",
+        "Personal Development",
+        "Resilience",
+        "Philosophy"
+      ],
+      "language": "English",
+      "format": "PDF",
+      "isFree": false,
+      "regularPrice": 2100,
+      "salePrice": 1499,
+      "isPublished": true,
+      "isFeatured": false,
+      "createdAt": "2025-01-28T12:00:00.000Z",
+      "updatedAt": "2025-01-28T12:00:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "HEB-53442",
+      "customerName": "Test Visitor",
+      "customerEmail": "visitor@example.com",
+      "customerPhone": "03001234567",
+      "items": [
+        {
+          "productId": "prod-free-starter-handbook",
+          "title": "The Freelancer’s Quick Start Handbook: First $500 Roadmap",
+          "price": 0,
+          "regularPrice": 0,
+          "isFree": true,
+          "coverUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 0,
+      "discount": 0,
+      "finalTotal": 0,
+      "paymentMethod": "free",
+      "paymentStatus": "approved",
+      "accessToken": "acc_e49ceb77579055d8b25272b8126bfa7997ec356d",
+      "history": [
+        {
+          "timestamp": "2026-10-10T18:09:09.554Z",
+          "action": "FREE_CLAIM_GRANTED",
+          "note": "Free ebook claimed and verified automatically."
+        }
+      ],
+      "createdAt": "2026-10-10T18:09:09.554Z",
+      "updatedAt": "2026-10-10T18:09:09.554Z",
+      "approvedAt": "2026-10-10T18:09:09.554Z"
+    },
+    {
+      "id": "HEB-22797",
+      "customerName": "Hamza Khan",
+      "customerEmail": "hamza@example.com",
+      "customerPhone": "03241234567",
+      "items": [
+        {
+          "productId": "prod-freelance-blueprint",
+          "title": "The 7-Figure Freelancer Blueprint: From Zero to High-Ticket Retainers",
+          "price": 1799,
+          "regularPrice": 2499,
+          "isFree": false,
+          "coverUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 1799,
+      "discount": 180,
+      "promoCode": "WELCOME10",
+      "finalTotal": 1619,
+      "paymentMethod": "jazzcash",
+      "paymentStatus": "approved",
+      "accessToken": "acc_ef48c6eb014acf472e954637b3c3c8c2c0d8e623",
+      "history": [
+        {
+          "timestamp": "2026-10-10T18:09:18.119Z",
+          "action": "ORDER_CREATED",
+          "note": "Awaiting manual JAZZCASH payment of Rs. 1619."
+        },
+        {
+          "timestamp": "2026-10-10T18:09:27.464Z",
+          "action": "PAYMENT_SUBMITTED",
+          "note": "Customer submitted transaction ref: JC9823746192"
+        },
+        {
+          "timestamp": "2026-10-10T18:09:51.624Z",
+          "action": "PAYMENT_APPROVED",
+          "note": "Verified in JazzCash merchant portal.",
+          "adminEmail": "factiboy131@gmail.com"
+        }
+      ],
+      "createdAt": "2026-10-10T18:09:18.119Z",
+      "updatedAt": "2026-10-10T18:09:51.624Z",
+      "transactionReference": "JC9823746192",
+      "approvedAt": "2026-10-10T18:09:51.624Z",
+      "reviewedAt": "2026-10-10T18:09:51.624Z",
+      "adminNotes": "Verified in JazzCash merchant portal."
+    }
+  ],
+  "promotions": [
+    {
+      "id": "promo-welcome10",
+      "code": "WELCOME10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderValue": 500,
+      "maxDiscount": 500,
+      "isActive": true,
+      "totalRedemptionLimit": 500,
+      "currentRedemptions": 15,
+      "perCustomerLimit": 1
+    },
+    {
+      "id": "promo-growth20",
+      "code": "GROWTH20",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "minOrderValue": 1500,
+      "maxDiscount": 1000,
+      "isActive": true,
+      "totalRedemptionLimit": 200,
+      "currentRedemptions": 8,
+      "perCustomerLimit": 1
+    },
+    {
+      "id": "promo-save300",
+      "code": "SAVE300",
+      "discountType": "fixed",
+      "discountValue": 300,
+      "minOrderValue": 2000,
+      "isActive": true,
+      "totalRedemptionLimit": 100,
+      "currentRedemptions": 3,
+      "perCustomerLimit": 1
+    }
+  ],
+  "entitlements": [
+    {
+      "id": "ent-1791655749555-p4vqk",
+      "orderId": "HEB-53442",
+      "customerEmail": "visitor@example.com",
+      "productId": "prod-free-starter-handbook",
+      "grantedAt": "2026-10-10T18:09:09.555Z",
+      "isActive": true
+    },
+    {
+      "id": "ent-1791655791625-peedt",
+      "orderId": "HEB-22797",
+      "customerEmail": "hamza@example.com",
+      "productId": "prod-freelance-blueprint",
+      "grantedAt": "2026-10-10T18:09:51.625Z",
+      "isActive": true
+    }
+  ],
+  "downloadEvents": [
+    {
+      "id": "dl-1791655802799-0ju2",
+      "orderId": "HEB-22797",
+      "productId": "prod-freelance-blueprint",
+      "customerEmail": "hamza@example.com",
+      "ipAddress": "127.0.0.1",
+      "downloadedAt": "2026-10-10T18:10:02.799Z"
+    }
+  ],
+  "settings": {
+    "jazzcashNumber": "03247755484",
+    "jazzcashAccountName": "Husnain Ebooks Official",
+    "easypaisaNumber": "03446730755",
+    "easypaisaAccountName": "Husnain Ebooks Official",
+    "contactEmail": "factiboy131@gmail.com",
+    "contactPhone": "+92 324 7755484",
+    "whatsappNumber": "+92 324 7755484",
+    "verificationPolicyHours": "1 to 3 hours during business hours (9 AM - 10 PM PKT)",
+    "currencySymbol": "Rs.",
+    "currencyCode": "PKR",
+    "storeNotice": "Official JazzCash (03247755484) & Easypaisa (03446730755) manual payments accepted with rapid order verification."
+  },
+  "auditLogs": [
+    {
+      "id": "log-1791700397837-ql82",
+      "timestamp": "2026-10-11T06:33:17.837Z",
+      "adminEmail": "husnaincreator6@gmail.com",
+      "action": "ADMIN_LOGIN",
+      "targetType": "auth",
+      "targetId": "husnaincreator6@gmail.com",
+      "details": "Administrator logged in successfully."
+    },
+    {
+      "id": "log-1791700387136-aus7",
+      "timestamp": "2026-10-11T06:33:07.136Z",
+      "adminEmail": " Husnaincreator6@gmail.com ",
+      "action": "ADMIN_LOGIN",
+      "targetType": "auth",
+      "targetId": " Husnaincreator6@gmail.com ",
+      "details": "Administrator logged in successfully."
+    },
+    {
+      "id": "log-1791700376140-fa3a",
+      "timestamp": "2026-10-11T06:32:56.140Z",
+      "adminEmail": "husnaincreator6@gmail.com",
+      "action": "ADMIN_LOGIN",
+      "targetType": "auth",
+      "targetId": "husnaincreator6@gmail.com",
+      "details": "Administrator logged in successfully."
+    },
+    {
+      "id": "log-1791700099680-y6vb",
+      "timestamp": "2026-10-11T06:28:19.680Z",
+      "adminEmail": "husnaincreator6@gmail.com",
+      "action": "ADMIN_LOGIN",
+      "targetType": "auth",
+      "targetId": "husnaincreator6@gmail.com",
+      "details": "Administrator logged in successfully."
+    },
+    {
+      "id": "log-1791655791625-90bj",
+      "timestamp": "2026-10-10T18:09:51.625Z",
+      "adminEmail": "factiboy131@gmail.com",
+      "action": "APPROVE_ORDER",
+      "targetType": "order",
+      "targetId": "HEB-22797",
+      "details": "Order HEB-22797 approved for Rs. 1619"
+    },
+    {
+      "id": "log-1791655782027-owlq",
+      "timestamp": "2026-10-10T18:09:42.027Z",
+      "adminEmail": "factiboy131@gmail.com",
+      "action": "ADMIN_LOGIN",
+      "targetType": "auth",
+      "targetId": "factiboy131@gmail.com",
+      "details": "Administrator logged in successfully."
+    },
+    {
+      "id": "log-init",
+      "timestamp": "2026-10-10T18:08:54.785Z",
+      "adminEmail": "system",
+      "action": "STORE_INITIALIZED",
+      "targetType": "system",
+      "targetId": "all",
+      "details": "Initial store catalog and settings successfully loaded."
+    }
+  ],
+  "emailNotifications": [
+    {
+      "id": "email-1791655791625-6ofn",
+      "orderId": "HEB-22797",
+      "customerEmail": "hamza@example.com",
+      "subject": "Order HEB-22797 Approved — Your Ebook is Ready!",
+      "type": "order_approved",
+      "contentPreview": "Payment verified. Access granted to: The 7-Figure Freelancer Blueprint: From Zero to High-Ticket Retainers.",
+      "status": "simulated_fallback",
+      "sentAt": "2026-10-10T18:09:51.625Z"
+    },
+    {
+      "id": "email-1791655767465-1wau",
+      "orderId": "HEB-22797",
+      "customerEmail": "hamza@example.com",
+      "subject": "Payment Proof Received for Order HEB-22797 — Under Review",
+      "type": "payment_received",
+      "contentPreview": "Payment proof received for Order HEB-22797 (Ref: JC9823746192). Verification in progress.",
+      "status": "simulated_fallback",
+      "sentAt": "2026-10-10T18:09:27.465Z"
+    },
+    {
+      "id": "email-1791655758148-jj23",
+      "orderId": "HEB-22797",
+      "customerEmail": "hamza@example.com",
+      "subject": "Husnain Ebooks: Order HEB-22797 Payment Instructions",
+      "type": "order_submitted",
+      "contentPreview": "Order HEB-22797 submitted for Rs. 1619. Please send payment to JazzCash 03247755484.",
+      "status": "simulated_fallback",
+      "sentAt": "2026-10-10T18:09:18.148Z"
+    },
+    {
+      "id": "email-1791655749556-gytc",
+      "orderId": "HEB-53442",
+      "customerEmail": "visitor@example.com",
+      "subject": "Your Free Ebook from Husnain Ebooks is Ready!",
+      "type": "free_claimed",
+      "contentPreview": "Instant free claim verified for Test Visitor (The Freelancer’s Quick Start Handbook: First $500 Roadmap).",
+      "status": "simulated_fallback",
+      "sentAt": "2026-10-10T18:09:09.555Z"
+    }
+  ]
+}
